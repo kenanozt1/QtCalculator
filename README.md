@@ -10,11 +10,6 @@ A basic calculator application that performs simple arithmetic operations, devel
 - ➗ Division
 - 🧮 Simple and intuitive interface
 
-## 🧩 Planned Features
-
-- [ ] Scientific calculator functions
-- [ ] History view
-
 ## 🛠️ Technologies Used
 
 - Qt 5.15 / QML
